@@ -18,13 +18,14 @@ A local-first, private-by-default chat application powered by large language mod
 - 🛠️ Hackable core – extend it with tools, memory, or RAG
 
 ## 🔍 Project Structure
+```bash
 chat-o-llama/
 ├── backend/           # LLM logic, API server
 ├── frontend/          # UI for chatting
 ├── prompts/           # Prompt templates
 ├── docs/              # Documentation and ideas
 └── README.md
-
+```
 ## 🔮 Roadmap
 - Session-based memory
 - Active/passive voice conversion
