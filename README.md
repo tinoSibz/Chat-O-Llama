@@ -19,7 +19,7 @@ A local-first, private-by-default chat application powered by large language mod
 
 ## 🔍 Project Structure
 ```bash
-chat-o-llama/
+Chat-O-Llama/
 ├── backend/           # LLM logic, API server
 ├── frontend/          # UI for chatting
 ├── prompts/           # Prompt templates
